@@ -1,0 +1,5 @@
+com/example/contactmanagement/model/Contact.class
+com/example/contactmanagement/repository/ContactRepository.class
+com/example/contactmanagement/ContactmanagementApplication.class
+com/example/contactmanagement/controller/ContactController.class
+com/example/contactmanagement/service/ContactService.class
